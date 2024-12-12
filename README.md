@@ -11,4 +11,8 @@ For this lab we assume that you are using some audio file capturing a conversati
 [Kaggle Speaker audio](https://www.kaggle.com/datasets/vjcalling/speaker-recognition-audio-dataset/data)
 
 You can access the colab notebook content from: 
-bayareacoders/BayArea_Coders_Collective_Dataflow_ML_.ipynb
+[bayareacoders/BayArea_Coders_Collective_Dataflow_ML_.ipynb](https://github.com/c-damien/bayareacoders/blob/main/BayArea_Coders_Collective_Dataflow_ML_.ipynb)
+
+or directly: 
+
+[![Colab](https://camo.githubusercontent.com/96889048f8a9014fdeba2a891f97150c6aac6e723f5190236b10215a97ed41f3/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667 'Colab')](https://colab.research.google.com/github/c-damien/bayareacoders/blob/main/BayArea_Coders_Collective_Dataflow_ML_.ipynb)
