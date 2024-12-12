@@ -1,4 +1,4 @@
-# bayareacoders
+# Bay Area Coders Collective  - Dataflow ML
 Colab Notebook containing the demo to use for the event Bay Area Coders Collective
 
 We have 2 variations on how to use models in the following pipeline in Dataflow
